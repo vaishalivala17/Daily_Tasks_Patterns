@@ -2,9 +2,8 @@
 using namespace std;
 
 int main(){
-
     // Inverted Triangle Pattern
-
+    
     // * * * * *
     // * * * *  
     // * * *
