@@ -4,7 +4,8 @@
 using namespace std;
 
 int main(){
-
+    // Simple Square Pattern
+    
     // *  *  *  *  * 
     // *  *  *  *  * 
     // *  *  *  *  * 
