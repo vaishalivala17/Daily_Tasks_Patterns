@@ -8,8 +8,8 @@ int main(){
     //     *       1
     //    ***      2
     //   *****     3
-    //    ***
-    //     *
+    //    ***      2
+    //     *       1
 
     // Input the number of rows for the diamond
     int n ;
