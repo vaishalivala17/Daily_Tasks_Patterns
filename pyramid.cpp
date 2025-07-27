@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    // Pyramid Pattern
 
     //  Input : 5
     //     *
