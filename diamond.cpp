@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    //   Diamond Pttern
+    //   Diamond Pattern
     
     //  Input : 3  
     //     *       1
