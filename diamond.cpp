@@ -4,10 +4,10 @@ using namespace std;
 int main(){
     //   Diamond Pttern
     
-    //  Input : 3
-    //     *      
-    //    ***
-    //   *****
+    //  Input : 3  
+    //     *       1
+    //    ***      2
+    //   *****     3
     //    ***
     //     *
 
