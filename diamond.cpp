@@ -2,9 +2,10 @@
 using namespace std;
 
 int main(){
-
+    //   Diamond Pttern
+    
     //  Input : 3
-    //     *
+    //     *      
     //    ***
     //   *****
     //    ***
@@ -40,19 +41,5 @@ int main(){
         }cout << endl;
     }
     
-    // for(int i = 1; i <= n; i++) {
-    //     // Print space
-
-    //     for(int j = i; j < n; j++) {  // For row-1 : 4 spaces, row-2 : 3 spaces...row-3 : 0
-    //         cout << " ";
-    //     }
-    //     // Print stars
-    //     for(int k = 1; k <= (2*i - 1); k++) { // 2*1 - 1 = 1, 2*2 - 1 = 3...
-    //         cout << "*";
-    //     }cout << endl;
-    //     for(int j = 1; j < i; j++) { // For row-1 : 0 spaces, row-2 : 1 space...row-3 : 2 spaces
-    //         cout << " ";
-    //     }
-    // }
     return 0;
 }
